@@ -34,11 +34,11 @@ This is a Streamlit-based web application that forecasts **Electric Vehicle (EV)
 
 ## 📦 Requirements
 
-Install dependencies with:
+Install dependencies with:<br>
 pip install -r requirements.txt
 
-How to Run Locally
-streamlit run app.py
+How to Run Locally:<br>
+streamlit run app.py<br>
 Ensure all files are in the same directory as app.py
 
 Built With
