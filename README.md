@@ -39,6 +39,7 @@ pip install -r requirements.txt
 
 How to Run Locally:<br>
 streamlit run app.py<br>
+
 Ensure all files are in the same directory as app.py
 
 Built With
