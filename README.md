@@ -22,7 +22,7 @@ This is a Streamlit-based web application that forecasts **Electric Vehicle (EV)
 
 
 ## 📂 Project Structure
-
+```
 📁 Project Folder/
 ├── app.py # Streamlit app
 ├── forecasting_ev_model.pkl # Pre-trained ML model
@@ -30,8 +30,7 @@ This is a Streamlit-based web application that forecasts **Electric Vehicle (EV)
 ├── ev-car-factory.jpg # Header image for app
 ├── requirements.txt # Required Python libraries
 └── README.md # Project info and instructions
-
-
+```
 
 ## 📦 Requirements
 
