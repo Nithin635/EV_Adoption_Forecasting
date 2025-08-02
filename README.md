@@ -49,8 +49,8 @@ Built With
 - NumPy
 - Matplotlib
 
-🙋‍♂️ Author
-Developed for AICTE Internship Cycle 2 by Nithin
+🙋‍♂️ Author <br>
+Developed by Nithin for the AICTE Internship Cycle 2.  
 
-📘 License
-This project is for educational purposes only.
+
+
